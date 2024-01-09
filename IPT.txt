@@ -1,30 +1,13 @@
 
-▼喜好▼,#genre#
-
-以下均为,http://
-个人喜好,http://
-电视直播,http://
-www.iptvindex.com,http://
-
 ┗纪录,#genre#
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
-┗影视,#genre#
-古天乐影院,http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
-张国荣影院,http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
-周星驰影院,http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
-周星驰影院,http://api2.52tb.xyz/info?id=1036&token=20230218zdxlqr
-周星驰影院,http://1.14.62.198:35455/douyu/122402
-
-
 ┗体育,#genre#
-
 咪咕视频,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 
 
 ┗春晚,#genre#
-
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -96,17 +79,7 @@ www.iptvindex.com,http://
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
-▼海外▼,#genre#
-
-以下均为,http://
-海外频道,http://
-电视直播,http://
-长期不稳定, http://
-科学上网, http://
-www.iptvindex.com,http://
-
 ┗港澳台,#genre#
-
 香港 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 香港 翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
@@ -303,9 +276,7 @@ ELEVEN 2 体育频道,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 
 
 ┗外语频道,#genre#
-
 1 HD Music TV,http://91.247.68.229:8000/play/1HD/index.m3u8
-
 3ABN 基督教,https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
 ABC News 澳洲,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
