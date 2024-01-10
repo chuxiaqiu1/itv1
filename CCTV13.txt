@@ -1,0 +1,65 @@
+
+
+
+cctv 13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+CCTV-11 戏曲,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-12 社会与法,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
+
+
+-----------------
+fanmingming/live domainv6,#genre#
+CCTV-1 综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV-4 中文国际,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV-5 体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV-6 电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV-7 国防军事,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV-8 电视剧,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV-9 纪录,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV-10 科教,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV-11 戏曲,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV-12 社会与法,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV-13 新闻,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV-14 少儿,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV-15 音乐,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV-16 奥林匹克,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV-17 农业农村,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV-16 奥林匹克 4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
+
+China Province,#genre#
+[SD]内蒙古卫视[ipv6],https://epg.pw/stream/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
+[BD]北京卫视[ipv6],https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8
+[BD]吉林卫视,https://epg.pw/stream/c8a8b8a24ab802c58f26f0520dc40cf341fbd5811ce1ae9327f2c63e26e8fc28.ctv
+[VGA]四川卫视,https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.m3u8
+[BD]天津卫视,https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784abc97f.ctv
+[VGA]安徽卫视,https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424ea16a1.m3u8
+[BD]山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
+[SD]山西卫视,https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
+[SD]厦门卫视,https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b30fae0.ctv
+[BD]广东卫视,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8
+[BD]广西卫视,https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
+[SD]新疆卫视,https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8
+[BD]旅游卫视[ipv6],https://epg.pw/stream/2b5fa28ebe09f182553d1ac10a65433c641f5c09e4595f094694a03d0e378566.m3u8
+[BD]东南卫视[ipv6],https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
+[BD]东方卫视[ipv6],https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
+[BD]江苏卫视,https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8
+[VGA]江西卫视,https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8
+[BD]河北卫视[ipv6],https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8
+[VGA]河南卫视,https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
+[BD]浙江卫视[ipv6],https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8
+[BD]海南卫视[ipv6],https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8
+[BD]深圳卫视[ipv6],https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
+[SD]湖北卫视,https://epg.pw/stream/95a48ba741cb55df727c504cdfd501c65310a9ad60fdcdbb36ad8277d5790f27.m3u8
+[BD]湖南卫视[ipv6],https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
+[HD]烟台新闻综合,https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8
+[BD]甘肃卫视[ipv6],https://epg.pw/stream/05ccbebe8d81cf91ecf4347845f6f0b42fed4bab4071195b0a4f735a80c386bd.m3u8
+[SD]西藏卫视,https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.m3u8
+[BD]贵州卫视,https://epg.pw/stream/cc54b485fc3912265c9dbb24fe2b6d1ba2b65412d0ff45b904bc4d53ea02bf67.ctv
+[VGA]辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
+[BD]重庆卫视[ipv6],https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
+[SD]陕西卫视,https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.ctv
+[BD]云南卫视[ipv6],https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
+[SD]青海卫视,https://epg.pw/stream/bb84d47770b5abe3f2c560c48c7487b6acd6133bea36ff22f1f5af1304512ac0.ctv
+[BD]黑龙江卫视,https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv
