@@ -1,11 +1,11 @@
 
-fanmingming/live0 domainv6,#genre#
+live0 domainv6,#genre#
 
 cctv 13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-11 戏曲,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV-12 社会与法,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
 
-fanmingming/live1 domainv6,#genre#
+live1 domainv6,#genre#
 CCTV-1 综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
