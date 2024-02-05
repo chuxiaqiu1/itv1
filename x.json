@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆贸易",
-      "name": "🌕公众号【神秘的哥哥们】",
+      "name": "🌕公众号【神秘的GitHub】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -897,7 +897,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
+      "url": "https://raw.githubusercontent.com/chuxiaqiu1/itv1/main/vv1.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
