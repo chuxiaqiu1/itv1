@@ -1,4 +1,4 @@
-网络电视,#genre#
+央视频道,#genre#
 CCTV1 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
 CCTV1 8M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV2 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226711/index.m3u8
@@ -22,7 +22,7 @@ CCTV16 8M1080,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/32212
 CCTV16 8M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
 CCTV17 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 
-地方卫视,#genre#
+卫视频道,#genre#
 辽宁卫视 3M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
 辽宁卫视 4M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8
 辽宁卫视 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
@@ -59,7 +59,7 @@ CCTV17 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/
 江苏优漫卡通 576,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226768/index.m3u8
 NNM新动漫 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226818/index.m3u8
 
-地方频道,#genre#
+辽宁地方频道,#genre#
 辽宁公共 8M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
 辽宁经济 8M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
 辽宁体育 576,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
